@@ -447,3 +447,10 @@ export const resources: Resource[] = [
         url: 'https://mysqlexplain.com/',
     },
 ]
+  {
+    name: 'Math AI',
+    description: 'AI math solver for equations, uploaded problems, and step-by-step explanations across algebra, calculus, geometry, and statistics.',
+    categories: ['Learn', 'AI', 'Productivity'],
+    url: 'https://mathai.chat/',
+    keywords: ['math', 'solver', 'education', 'calculus', 'algebra'],
+  },
